@@ -12,6 +12,9 @@ set scrolloff=3		" Display at least 3 lines around cursor (for scrolling)
 set guioptions=T	" Enable the toolbar
 syntax enable
 
+packadd! dracula
+colorscheme dracula
+
 " -- Search
 set ignorecase
 set smartcase		" If there is an uppercase letter in search, make it case sensitive
