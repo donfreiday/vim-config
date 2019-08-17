@@ -1,0 +1,3 @@
+[submodule "pack/plugins/start/dracula"]
+	path = pack/plugins/start/dracula
+	url = https://github.com/dracula/vim.git
